@@ -5,7 +5,7 @@ This will be a weekend project to demonstrate that I am capiable and passionte c
 
 
 In addition to engaging students who are raised in a hyper-stimulated environment, interactive learning sharpens critical thinking skills, which are fundamental to the development of analytic reasoning. Me being primarly a self-taught programmer I know how difficult it can be to keep pushing yourself while learning, espesically when you hit your learning curve. I took up online curriculums on Code Academy, Coding bootcamp, and TreeHouse. These sites main goal was to get you hands-on becuase anybody can read a book and know "about" a programming language, but every programmer knows that the real learning comes in when you sit down and grind it out with a keyboard and a cup of coffee. I belive this way of learning can be implied with all trades so I made this program to help people study for a test.
-![Alt text](http://imgur.com/a/plgjH "Optional title")
+![Alt text](http://imgur.com/gallery/plgjH "Optional title")
 
 
 languages/frameworks/libraries:
